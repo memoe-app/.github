@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="memoe-lockup-on-dark.svg">
-    <img src="memoe-lockup.svg" alt="Memoe" width="320">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/memoe-app/.github/main/profile/memoe-lockup-on-dark.svg">
+    <img src="https://raw.githubusercontent.com/memoe-app/.github/main/profile/memoe-lockup.svg" alt="Memoe" width="320">
   </picture>
 </p>
 
